@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "CVILARDELL",
+            "server": "http://cvilardell.dataproces.es",
+            //"server": "http://DSEKTOP-2773SRE.es",
+            //"server": "https://BusinessCentral.dynamics.com",
+            //"server": "https://dataprocesbc.financials.dynamics.com",
+            "serverInstance": "DynamicsNAV110",
+            "port": 7849,
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "schemaUpdateMode": "Recreate"
+        }
+    ]
+}

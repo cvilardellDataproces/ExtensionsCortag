@@ -1,0 +1,23 @@
+{
+  "id": "9f566865-183f-4078-b918-35df30880149",
+  "name": "Ext Cortag",
+  "publisher": "Data Proces",
+  "brief": "",
+  "description": "Personalizaciones del programa para Cortag",
+  "version": "4.0.0.3",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./iconos/logoExtensionOneData4.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 99999
+  }
+}
